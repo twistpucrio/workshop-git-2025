@@ -56,11 +56,14 @@ Markdown
 Markdown é uma forma de escrever arquivos texto seguindo regras que serão seguidas para exibição do texto com formatação.
 
 ### Formatação
+  Utilizando o Markdown... 
+  Também fazer com HTML
 
 #### Itálico
+_italico_ ou *assim*
 
 #### Negrito
-
+**Negrito** ou __Assim__
 #### Bloco de Código
 
 ### Listas

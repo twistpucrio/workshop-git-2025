@@ -1,4 +1,4 @@
-Workshop de Git 2024
+Workshop de Git 2025
 ======================
 
 por [Bernardo Quaresma](mailto:bernardo@tegraf.puc-rio.br)
@@ -83,6 +83,7 @@ Anotações
 Usem esse espaço para manter uma lista de anotações e dicas como comandos do Git, links do GitHub e exemplos de Markdown.
 
 1.
+
 
 
 
